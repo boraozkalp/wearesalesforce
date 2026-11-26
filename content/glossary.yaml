@@ -1,0 +1,153 @@
+- module: 2
+  tr: {term: Cüzdan payı, def: Müşterinin belirli bir kategorideki veya toplamdaki alımlarının şirketimizden yapılan kısmının yüzdesi. Büyümenin kaynağını gösteren en önemli göstergelerden biridir.}
+  en: {term: Share of wallet, def: The percentage of a customer’s total purchases (overall or in a category) made from our company. One of the most important indicators of where growth comes from.}
+- module: 2
+  tr: {term: Portföy, def: Bir satış temsilcisine isim isim atanmış, potansiyel ve uygunluğa göre seçilmiş, yönetilebilir sayıda müşteri listesi.}
+  en: {term: Portfolio, def: A manageable list of named customers assigned to one rep, selected for potential and fit.}
+- module: 2
+  tr: {term: Segmentasyon, def: Müşterileri potansiyel, mevcut pay ve kârlılığa göre gruplara (ör. A/B/C) ayırarak her gruba farklı bir hizmet ve ziyaret modeli uygulamak.}
+  en: {term: Segmentation, def: Grouping customers (e.g. A/B/C) by potential, current share and profitability, and applying a different service and visit model to each group.}
+- module: 2
+  tr: {term: Satın alma potansiyeli, def: Müşterinin bir kategoride veya toplamda tüm tedarikçilerden yaptığı tahmini alım hacmi.}
+  en: {term: Purchase potential, def: The estimated total amount a customer buys from all suppliers, in a category or overall.}
+- module: 2
+  tr: {term: Avcı (hunter), def: Ağırlıklı olarak yeni müşteri kazanımından sorumlu satış rolü.}
+  en: {term: Hunter, def: A sales role mainly responsible for winning new customers.}
+- module: 2
+  tr: {term: Çiftçi (farmer), def: Mevcut müşterileri büyütmekten, kategori genişletmekten ve sadakatten sorumlu satış rolü.}
+  en: {term: Farmer, def: A sales role responsible for growing existing customers, expanding categories and loyalty.}
+- module: 2
+  tr: {term: Müşteri yaşam döngüsü, def: Bir müşterinin potansiyel, yeni, gelişim, stabil, gerileyen ve pasif aşamalarından geçişi; her aşama farklı bir aksiyon gerektirir.}
+  en: {term: Customer lifecycle, def: A customer’s progression through prospect, new, developing, stable, declining and passive stages, each requiring a different action.}
+- module: 2
+  tr: {term: Kategori penetrasyonu, def: Müşterinin şirketten alım yaptığı kategori sayısı veya bir kategoride alım yapan müşterilerin oranı.}
+  en: {term: Category penetration, def: The number of categories a customer buys from us, or the share of customers buying a given category.}
+- module: 2
+  tr: {term: Birebir yaklaşım, def: Her önemli müşteri için ayrı durum analizi, hedef ve aksiyon planıyla çalışan satış stratejisi.}
+  en: {term: One-to-one approach, def: A sales strategy with a separate situation analysis, objective and action plan for each important customer.}
+- module: 3
+  tr: {term: SMART hedef, def: Spesifik, ölçülebilir, ulaşılabilir, ilgili ve zamana bağlı hedef.}
+  en: {term: SMART target, def: A target that is specific, measurable, achievable, relevant and time-bound.}
+- module: 3
+  tr: {term: KPI, def: Temel performans göstergesi; bir hedefe ne ölçüde ulaşıldığını ölçen sayısal gösterge.}
+  en: {term: KPI, def: Key performance indicator; a numerical measure of progress towards a target.}
+- module: 3
+  tr: {term: Hedef kırılımı, def: Şirket hedefinin bölge, ekip, temsilci ve müşteri düzeyine indirilmesi.}
+  en: {term: Target breakdown, def: Cascading the company target down to region, team, rep and customer level.}
+- module: 3
+  tr: {term: Ortalama sipariş değeri, def: Belirli bir dönemdeki toplam satışın sipariş sayısına bölümü.}
+  en: {term: Average order value, def: Total sales in a period divided by the number of orders.}
+- module: 3
+  tr: {term: Aktif müşteri, def: Tanımlı bir dönemde (ör. son 30 gün) en az bir alım yapan müşteri.}
+  en: {term: Active customer, def: A customer who has made at least one purchase in a defined period (e.g. the last 30 days).}
+- module: 3
+  tr: {term: Brüt kâr, def: Satış gelirinden satılan malın maliyeti düşüldükten sonra kalan tutar.}
+  en: {term: Gross profit, def: Sales revenue minus the cost of goods sold.}
+- module: 4
+  tr: {term: Sapma analizi, def: Hedef ile gerçekleşen arasındaki farkın nedenlerini müşteri, şirket ve satışçı kaynaklı olarak ayırma.}
+  en: {term: Variance analysis, def: Separating the causes of the gap between target and actual into customer, company and rep factors.}
+- module: 4
+  tr: {term: Etkililik, def: Doğru işi yapmak; doğru müşteriye, doğru hedef ve teklifle odaklanmak.}
+  en: {term: Effectiveness, def: Doing the right things; focusing on the right customers with the right objectives and offers.}
+- module: 4
+  tr: {term: Verimlilik, def: İşi doğru yapmak; ziyaret, zaman ve maliyet kaynaklarını en iyi şekilde kullanmak.}
+  en: {term: Efficiency, def: Doing things right; making the best use of visits, time and cost.}
+- module: 4
+  tr: {term: CRM, def: Müşteri ilişkileri yönetim sistemi; müşteri verisi, ziyaret planı, notlar ve fırsatların tutulduğu yazılım.}
+  en: {term: CRM, def: Customer relationship management system; software for customer data, visit plans, notes and opportunities.}
+- module: 4
+  tr: {term: Satış maliyeti oranı, def: Satış gücünün toplam maliyetinin ürettiği ciroya oranı.}
+  en: {term: Cost-of-sales ratio, def: The total cost of the sales force as a share of the sales it generates.}
+- module: 5
+  tr: {term: Saha taraması, def: Belirlenen bölgede hedef profile uyan işletmeleri sistemli olarak gözlemleyip nitelikli aday üretme çalışması.}
+  en: {term: Canvassing, def: Systematically observing businesses that fit the target profile in a chosen area to produce qualified prospects.}
+- module: 5
+  tr: {term: Nitelikli aday, def: Hedef müşteri tanımına uyan, karar vericisi ve potansiyeli bilinen potansiyel müşteri.}
+  en: {term: Qualified prospect, def: A prospect that matches the target customer definition and whose decision-maker and potential are known.}
+- module: 5
+  tr: {term: Dönüşüm oranı, def: Satış hunisinde bir aşamadan bir sonrakine geçenlerin oranı.}
+  en: {term: Conversion rate, def: The share of prospects moving from one stage of the sales funnel to the next.}
+- module: 5
+  tr: {term: Reaktivasyon, def: Uzun süredir alım yapmayan bir müşterinin yeniden aktif hale getirilmesi.}
+  en: {term: Reactivation, def: Bringing a customer who has not bought for a long time back to active status.}
+- module: 6
+  tr: {term: Açık soru, def: Evet/hayır ile yanıtlanamayan, müşterinin bilgi ve görüş paylaşmasını sağlayan soru (ne, nasıl, neden…).}
+  en: {term: Open question, def: A question that cannot be answered with yes or no and invites information and views (what, how, why…).}
+- module: 6
+  tr: {term: Etkin dinleme, def: Not alma, anahtar kelimeleri yakalama, özetleme ve söylenmeyeni fark etmeyi içeren bilinçli dinleme.}
+  en: {term: Active listening, def: Deliberate listening that includes note-taking, catching key words, summarising and noticing what is not said.}
+- module: 6
+  tr: {term: Satın alma motivasyonu, def: Müşterinin satın alma kararının arkasındaki temel neden (kazanç, güvenlik, kolaylık, yenilik, prestij, ilişki).}
+  en: {term: Buying motivation, def: The underlying reason behind a purchase decision (gain, security, convenience, novelty, prestige, relationship).}
+- module: 6
+  tr: {term: İtiraz, def: Müşterinin bir öneriye karşı dile getirdiği endişe veya eksik bilgi; ret değil ilgi işaretidir.}
+  en: {term: Objection, def: A concern or missing information a customer raises about a proposal; a sign of interest, not rejection.}
+- module: 6
+  tr: {term: Kapanış, def: Görüşmenin sonunda müşteriden somut bir taahhüt (sipariş veya tarihli sonraki adım) alınması.}
+  en: {term: Closing, def: Securing a concrete commitment (an order or a dated next step) at the end of a conversation.}
+- module: 6
+  tr: {term: Fayda odaklı satış, def: Ürünün özelliğini değil, müşteriye sağlayacağı somut kazancı öne çıkaran sunum yaklaşımı.}
+  en: {term: Benefit-led selling, def: A presentation approach that highlights the concrete gain for the customer rather than product features.}
+- module: 6
+  tr: {term: Alternatif (BATNA), def: Müzakerede anlaşma sağlanamazsa başvurulacak en iyi seçenek; müzakere gücünü belirler.}
+  en: {term: BATNA, def: Best alternative to a negotiated agreement; what you will do if there is no deal. It determines negotiating power.}
+- module: 6
+  tr: {term: Kazan-kazan, def: Her iki tarafın da daha iyi bir duruma geçtiği müzakere sonucu.}
+  en: {term: Win-win, def: A negotiation outcome in which both parties end up better off.}
+- module: 7
+  tr: {term: Kilit müşteri yönetimi, def: Zincir ve çok şubeli büyük müşterilerin özel bir rol ve yıllık planla yönetilmesi.}
+  en: {term: Key account management, def: Managing large chains and multi-site customers through a dedicated role and an annual plan.}
+- module: 7
+  tr: {term: Yönetim genişliği, def: Bir yöneticiye doğrudan bağlı çalışan sayısı; saha satışında koçluk için 6–10 önerilir.}
+  en: {term: Span of control, def: The number of people reporting directly to a manager; 6–10 is recommended in field sales to allow coaching.}
+- module: 7
+  tr: {term: Yedekleme planı, def: Kritik pozisyonlar için hazır veya hazırlanmakta olan aday tanımlanması.}
+  en: {term: Succession plan, def: Identifying ready or developing successors for critical positions.}
+- module: 8
+  tr: {term: Yetkinlik, def: Bir işi başarıyla yapmak için gereken bilgi, beceri ve davranışın birleşimi.}
+  en: {term: Competency, def: The combination of knowledge, skills and behaviour needed to do a job successfully.}
+- module: 8
+  tr: {term: İş tanımı, def: Bir rolün amacını, sorumluluklarını, başarı ölçütlerini, yetkilerini ve gereken nitelikleri tanımlayan belge.}
+  en: {term: Job description, def: A document defining a role’s purpose, responsibilities, success measures, authority and required qualifications.}
+- module: 9
+  tr: {term: Prim eşiği, def: Altında prim ödenmeyen asgari hedef gerçekleşme oranı.}
+  en: {term: Bonus threshold, def: The minimum achievement level below which no bonus is paid.}
+- module: 9
+  tr: {term: Hızlandırıcı, def: Hedef üstündeki her performans puanı için daha yüksek prim ödenmesini sağlayan çarpan.}
+  en: {term: Accelerator, def: A multiplier that pays a higher bonus for each point of performance above target.}
+- module: 9
+  tr: {term: Dört göz ilkesi, def: Prim gibi kritik hesaplamaların iki ayrı kişi tarafından kontrol edilmesi.}
+  en: {term: Four-eyes principle, def: Having critical calculations such as bonuses checked by two separate people.}
+- module: 9
+  tr: {term: Değişken ücret, def: Performansa bağlı olarak ödenen prim ve teşviklerin toplamı.}
+  en: {term: Variable pay, def: The total of performance-related bonuses and incentives.}
+- module: 10
+  tr: {term: Koçluk, def: Kişinin yetkinliğini sahada gözlem, soru ve geri bildirimle geliştirmeye odaklanan yönetim faaliyeti.}
+  en: {term: Coaching, def: A management activity focused on developing a person’s competence through field observation, questions and feedback.}
+- module: 10
+  tr: {term: GROW modeli, def: Hedef, durum, seçenekler ve taahhüt aşamalarından oluşan koçluk görüşmesi yapısı.}
+  en: {term: GROW model, def: A coaching conversation structure with goal, reality, options and will stages.}
+- module: 10
+  tr: {term: Geri bildirim, def: Gözleme dayalı, davranışa odaklı, zamanında ve gelişim amaçlı bilgi paylaşımı.}
+  en: {term: Feedback, def: Timely, observation-based, behaviour-focused information shared to support development.}
+- module: 10
+  tr: {term: Oryantasyon, def: Yeni çalışanın şirketi, ürünleri, müşterileri ve rolünü öğrendiği yapılandırılmış başlangıç programı.}
+  en: {term: Onboarding, def: A structured starting programme in which a new hire learns the company, products, customers and role.}
+- module: 10
+  tr: {term: Karma öğrenme, def: Çevrim içi, sınıf içi ve iş başı eğitimi birleştiren öğrenme yaklaşımı.}
+  en: {term: Blended learning, def: A learning approach combining online, classroom and on-the-job training.}
+- module: 11
+  tr: {term: Rekabet hukuku, def: Rakipler arası fiyat ve pazar paylaşımı gibi rekabeti kısıtlayan davranışları yasaklayan kurallar.}
+  en: {term: Competition law, def: Rules prohibiting conduct that restricts competition, such as price fixing or market sharing between competitors.}
+- module: 11
+  tr: {term: Tavsiye edilen satış fiyatı, def: Üreticinin önerdiği, bağlayıcı olmayan yeniden satış fiyatı; satıcı fiyatını bağımsız belirler.}
+  en: {term: Recommended retail price, def: A non-binding resale price suggested by the manufacturer; the reseller sets its price independently.}
+- module: 11
+  tr: {term: Çıkar çatışması, def: Kişisel çıkarın şirketin çıkarıyla bağdaşmadığı durum.}
+  en: {term: Conflict of interest, def: A situation in which personal interest is incompatible with the company’s interest.}
+- module: 1
+  tr: {term: HoReCa, def: Otel, restoran ve kafe/catering müşterilerini kapsayan ev dışı tüketim segmenti.}
+  en: {term: HoReCa, def: Hotels, restaurants and cafés/catering; the out-of-home consumption segment.}
+- module: 1
+  tr: {term: Ev dışı tüketim (EDT), def: Yiyecek ve içeceğin ev dışında (restoran, otel, kafe, kurum yemekhanesi vb.) tüketildiği pazar.}
+  en: {term: Out-of-home (foodservice), def: The market where food and drink are consumed outside the home (restaurants, hotels, cafés, canteens etc.).}

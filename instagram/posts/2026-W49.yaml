@@ -1,0 +1,120 @@
+week: 2026-W49
+posts:
+- id: 1_pzt_cuzdan-payi
+  date: "2026-11-30 (Pazartesi) 09:30"
+  format: Tek görsel
+  slides:
+  - theme: dark
+    html: |
+      <span class="tag">Portföy</span>
+      <h1>Aynı ciro,<br><em>bambaşka</em><br>iki müşteri.</h1>
+      <div class="cmp">
+       <div class="a"><small>Müşteri A</small><strong>%80</strong><span>cüzdan payı<br>Strateji: <b>koru</b></span></div>
+       <div class="b"><small>Müşteri B</small><strong>%12</strong><span>cüzdan payı<br>Strateji: <b>pay kazan</b></span></div>
+      </div>
+      <p class="foot">İkisi de ayda 120.000 TL alıyor. Ciro raporunda aynı görünürler; büyüme fırsatı ise yalnızca birinde.</p>
+  caption: |
+    Ciro raporunda “iyi müşteri” görünen bir restoran, aslında toplam alımının yalnızca %12’sini sizden yapıyor olabilir. 📊
+
+    Ciro geçmişi gösterir; cüzdan payı ise ne kadar büyüme alanı kaldığını.
+
+    ✔️ Yüksek pay, düşük potansiyel → koru, verimli hizmet ver
+    ✔️ Düşük pay, yüksek potansiyel → kategori kategori pay kazan
+
+    Portföyünüzdeki ilk 10 müşterinin cüzdan payını biliyor musunuz? 👇
+
+    Detaylı yazı ve hesaplama örneği: wearesalesforce.com (Yazılar → Cüzdan payı)
+  hashtags: "#satış #sahasatışı #satışyönetimi #b2bsatış #horeca #evdışıtüketim #portföyyönetimi #cüzdanpayı #salesmanagement #wearesalesforce"
+
+- id: 2_car_ilk-iki-dakika
+  date: "2026-12-02 (Çarşamba) 12:30"
+  format: Carousel (6 görsel)
+  slides:
+  - theme: acc
+    html: |
+      <div class="ghost">2′</div><span class="tag">Müşteri ziyareti</span>
+      <h1>Ziyaretin ilk<br>2 dakikası.</h1>
+      <p class="lead">Müşteri bu sürede iki soruya cevap arar. İkisine de net cevap veren açılışın 4 parçası.</p>
+  - theme: dark
+    html: |
+      <div class="ghost">?</div><span class="tag">Müşterinin aklındaki</span>
+      <h2>1. “Bu kişi <em>zamanıma</em> değer mi?”</h2>
+      <h2 style="margin-top:40px">2. “Benden <em>ne istiyor?</em>”</h2>
+      <p class="foot">İkisinin de cevabı belirsizse, görüşmenin geri kalanında müşteri savunmada kalır.</p>
+  - theme: light
+    html: |
+      <div class="ghost">1</div><span class="tag">Parça 1</span>
+      <h2>Kişiye özel <em>ilk cümle</em></h2>
+      <p class="lead">“İşler nasıl?” yerine hazırlıkta not ettiğiniz bir gözlem:</p>
+      <p class="lead" style="font-weight:700;opacity:1">“Teraslı bölümü açmışsınız; hafta sonları nasıl gidiyor?”</p>
+      <p class="foot">Hem ilgi gösterir hem bilgi toplamayı başlatır.</p>
+  - theme: light
+    html: |
+      <div class="ghost">2·3</div><span class="tag">Parça 2 ve 3</span>
+      <h2>Amacı ve <em>süreyi</em> söyleyin</h2>
+      <p class="lead" style="font-weight:700;opacity:1">“Bugün hafta sonu stok sorununu nasıl çözebileceğimizi göstermek istiyorum. Yaklaşık 15 dakika sürer.”</p>
+      <p class="foot">Müşteri neden orada olduğunuzu tahmin etmek zorunda kalmasın. Ve söylediğiniz süreye sadık kalın.</p>
+  - theme: light
+    html: |
+      <div class="ghost">4</div><span class="tag">Parça 4</span>
+      <h2><em>Onay</em> alın</h2>
+      <p class="lead" style="font-weight:700;opacity:1">“Uygun mu, yoksa başka bir saat mi daha iyi olur?”</p>
+      <p class="foot">Bu küçük soru görüşmeyi sizin sunumunuz olmaktan çıkarır, ortak bir karara dönüştürür.</p>
+  - theme: dark
+    html: |
+      <span class="tag">Kaçının</span>
+      <ul class="l">
+       <li>Kataloğu masaya koyarak başlamak</li>
+       <li>İlk cümlede fiyat veya kampanya söylemek</li>
+       <li>Müşterinin o anki yoğunluğunu fark etmemek</li>
+       <li>Rakibi kötüleyerek söze girmek</li>
+      </ul>
+      <div class="cta">Kaydet ve sonraki ziyaretinde dene ✓</div>
+  caption: |
+    Bir satış ziyaretinin sonucu çoğu zaman kapanışta değil, açılışta belirlenir. ⏱️
+
+    Müşteri ilk 2 dakikada iki soruya cevap arar: “Bu kişi zamanıma değer mi?” ve “Benden ne istiyor?”
+
+    İyi bir açılışın 4 parçası:
+    1️⃣ Kişiye özel ilk cümle
+    2️⃣ Ziyaretin amacı
+    3️⃣ Süre
+    4️⃣ Onay
+
+    Mini egzersiz: Bu haftaki 5 ziyaretinizin açılış cümlesini önceden yazın. Sonra kendinize sorun: “Müşteri amacımı ilk 2 dakikada anladı mı?”
+
+    Ziyaret kontrol listesi (19 madde, ücretsiz): wearesalesforce.com → Araçlar
+  hashtags: "#satışteknikleri #sahasatışı #satıştemsilcisi #müşteriziyareti #satışipuçları #b2b #horeca #salestips #fieldsales #wearesalesforce"
+
+- id: 3_cum_itiraz
+  date: "2026-12-04 (Cuma) 17:30"
+  format: Tek görsel
+  slides:
+  - theme: dark
+    html: |
+      <span class="tag">İtiraz yönetimi</span>
+      <h2>İtiraza <em>iskontoyla</em><br>cevap vermeyin.</h2>
+      <ol class="n">
+       <li><b>Dinleyin</b>sözünü kesmeden, sonuna kadar</li>
+       <li><b>Kabul edin</b>“Bu endişeyi anlıyorum.”</li>
+       <li><b>Netleştirin</b>“Birim fiyat mı, toplam maliyet mi?”</li>
+       <li><b>Yanıtlayın</b>fayda, kanıt veya alternatifle</li>
+       <li><b>Teyit edin</b>“Bu sorunuzu yanıtladı mı?”</li>
+      </ol>
+  caption: |
+    “Fiyatınız yüksek.” 💬
+    En pahalı cevap: hemen iskonto vermek.
+
+    İtiraz bir ret değil, ilgi işaretidir. Müşteri düşünüyor ve eksik bir bilgi ya da bir endişe dile getiriyor.
+
+    5 adım:
+    1. Dinleyin
+    2. Kabul edin (haklı olduğunu değil, duyduğunuzu)
+    3. Netleştirin
+    4. Yanıtlayın
+    5. Teyit edin
+
+    Ekibinizde itiraza ilk tepki ne? Yorumlarda paylaşın 👇
+
+    Rehberin tamamı: wearesalesforce.com → Rehber → Müşteri ziyareti
+  hashtags: "#itirazyönetimi #satış #müzakere #satışyönetimi #sahasatışı #satıştemsilcisi #salestraining #objectionhandling #wearesalesforce"

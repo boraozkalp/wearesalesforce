@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Portfolio capacity calculator · We Are Sales Force</title>
+<meta name="description" content="Calculate how many customers one rep can realistically manage from field days, visit capacity and segment frequency.">
+<meta property="og:title" content="Portfolio capacity calculator · We Are Sales Force">
+<meta property="og:description" content="Calculate how many customers one rep can realistically manage from field days, visit capacity and segment frequency.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.wearesalesforce.com/en/tools/portfolio-capacity/">
+<meta property="og:image" content="https://www.wearesalesforce.com/assets/og.png">
+<link rel="canonical" href="https://www.wearesalesforce.com/en/tools/portfolio-capacity/">
+<link rel="alternate" hreflang="en" href="https://www.wearesalesforce.com/en/tools/portfolio-capacity/"><link rel="alternate" hreflang="tr" href="https://www.wearesalesforce.com/araclar/portfoy-kapasitesi/">
+<link rel="icon" href="../../../assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../../assets/style.css">
+
+</head>
+<body data-root="../../../" data-lang="en">
+<a class="skip" href="#main">Skip to content</a>
+<header class="top">
+ <div class="wrap top-in">
+  <a class="brand" href="../../../en/"><img class="logo-mark" src="../../../assets/wasf-mark.svg" alt="WASF"><span>We Are Sales Force</span></a>
+  <nav class="nav" id="nav"><a href="../../../en/guide/" class="">Guide</a><a href="../../../en/tools/" class="on">Tools</a><a href="../../../en/articles/" class="">Articles</a><a href="../../../en/glossary/" class="">Glossary</a><a href="../../../en/about/" class="">About</a></nav>
+  <div class="top-act">
+   <button class="sbtn" id="sbtn" aria-label="Search"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg><span>Search</span><kbd>/</kbd></button>
+   <a class="lang" href="../../../araclar/portfoy-kapasitesi/" hreflang="tr">TR</a>
+   <button class="burger" id="burger" aria-label="Menu"><span></span><span></span><span></span></button>
+  </div>
+ </div>
+</header>
+<main id="main">
+<section class="phero tool"><div class="wrap"><div class="crumb"><a href="../../../en/tools/">Tools</a></div>
+<div class="phero-row"><div class="mod-ic"><svg class="ic big" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="4" y="2" width="16" height="20" rx="2"/><path d="M8 6h8M8 11h.01M12 11h.01M16 11h.01M8 15h.01M12 15h.01M16 15h.01M8 19h8"/></svg></div><div><h1>Portfolio capacity calculator</h1><p class="lead">Calculate how many customers one rep can realistically manage from field days, visit capacity and segment frequency.</p><div class="chips"><a class="chip" href="../../../en/guide/customer-selection-and-portfolio/">Module 02 · Customer selection</a><a class="chip" href="../../../en/guide/organisation/">Module 07 · Organisation</a></div></div></div></div></section>
+<div class="wrap narrow tool-body"><div class="tool-card" data-tool="portfolio" data-lang="en">
+<h2>1. Field capacity</h2>
+<div class="fields">
+<div class="field"><label for="p_days">Field days per month</label><input id="p_days" type="number" value="17" step="1" min="0"><small>After office, meetings, leave</small></div>
+<div class="field"><label for="p_visits">Quality visits per day</label><input id="p_visits" type="number" value="6" step="1" min="0"><small>Prepared, objective-led visits</small></div>
+<div class="field"><label for="p_phone">Remote contact share %</label><input id="p_phone" type="number" value="0" step="1" min="0"><small>Contacts replacing a visit</small></div>
+</div>
+<h2 style="margin-top:24px">2. Visit frequency by segment (per month)</h2>
+<div class="fields">
+<div class="field"><label for="p_fa">Segment A – visits/month</label><input id="p_fa" type="number" value="4" step="0.5" min="0"><small>High potential, weekly</small></div>
+<div class="field"><label for="p_fb">Segment B – visits/month</label><input id="p_fb" type="number" value="2" step="0.5" min="0"><small>Every two weeks</small></div>
+<div class="field"><label for="p_fc">Segment C – visits/month</label><input id="p_fc" type="number" value="1" step="0.5" min="0"><small>Monthly</small></div>
+</div>
+<h2 style="margin-top:24px">3. Portfolio mix (%)</h2>
+<div class="fields">
+<div class="field"><label for="p_ma">Share of A %</label><input id="p_ma" type="number" value="20" step="1" min="0"></div>
+<div class="field"><label for="p_mb">Share of B %</label><input id="p_mb" type="number" value="35" step="1" min="0"></div>
+<div class="field"><label for="p_mc">Share of C %</label><input id="p_mc" type="number" value="45" step="1" min="0"></div>
+</div>
+<div class="result" id="p_out"></div>
+<p class="note">Formula: monthly visit capacity ÷ average monthly visits per customer (net of remote contacts). We suggest rounding the result down by 10–15% to leave room for prospecting and collections.</p>
+</div></div>
+</main>
+<footer class="foot">
+ <div class="wrap foot-in">
+  <div><a class="foot-logo" href="../../../en/"><img src="../../../assets/wasf-logo-transparent.svg" alt="WASF – we are sales force"></a>
+   <p>Original, practical guides, tools and templates for field sales teams and their managers.</p>
+   <p class="by">Created by: <b>Bora Özkalp</b></p></div>
+  <div><h4>Guide</h4><a href="../../../en/guide/role-and-objectives/">01 · Role & objectives</a><a href="../../../en/guide/customer-selection-and-portfolio/">02 · Customer selection</a><a href="../../../en/guide/target-setting/">03 · Target setting</a><a href="../../../en/guide/performance-monitoring/">04 · Performance</a><a href="../../../en/guide/new-customer-acquisition/">05 · New customers</a><a href="../../../en/guide/customer-visit/">06 · Customer visit</a><a href="../../../en/guide/organisation/">07 · Organisation</a><a href="../../../en/guide/profiles-and-competencies/">08 · Profiles & competencies</a><a href="../../../en/guide/pay-and-incentives/">09 · Pay & incentives</a><a href="../../../en/guide/training-and-coaching/">10 · Training & coaching</a><a href="../../../en/guide/compliance-and-ethics/">11 · Compliance & ethics</a></div>
+  <div><h4>Tools</h4><a href="../../../en/tools/portfolio-capacity/">Portfolio capacity calculator</a><a href="../../../en/tools/smart-target/">SMART target builder</a><a href="../../../en/tools/visit-checklist/">Customer visit checklist</a><a href="../../../en/tools/coaching-observation-form/">Coaching observation form</a><a href="../../../en/tools/incentive-simulator/">Incentive simulator</a><a href="../../../en/tools/performance-matrix/">Performance reading matrix</a><a href="../../../en/tools/new-customer-funnel/">New customer funnel</a>
+   <h4 style="margin-top:18px">Instagram</h4><a href="https://www.instagram.com/wearesalesforce/" rel="noopener"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r=".8" fill="currentColor"/></svg> @wearesalesforce</a></div>
+ </div>
+ <div class="wrap legal">© 2026 We Are Sales Force · All content is original; an independent publication not affiliated with any software brand.</div>
+</footer>
+<div class="search" id="search" hidden>
+ <div class="search-box" role="dialog" aria-modal="true" aria-label="Search">
+  <div class="search-in"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg><input id="q" type="search" placeholder="Search the guide, tools and glossary…" autocomplete="off"><button id="sclose" aria-label="Kapat">Esc</button></div>
+  <div id="sres" class="sres" data-empty="No results"></div>
+ </div>
+</div>
+<script src="../../../assets/search-index.js"></script>
+<script src="../../../assets/app.js"></script>
+<script src="../../../assets/tools.js"></script>
+</body>
+</html>
