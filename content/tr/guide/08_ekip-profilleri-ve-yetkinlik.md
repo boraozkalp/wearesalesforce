@@ -28,7 +28,7 @@ Bilgi en hızlı öğretilen, davranış en zor değişendir. Bu yüzden işe al
 | Yeni Müşteri Uzmanı (avcı) | Yüksek enerji, reddedilmeye dayanıklılık, hızlı ilişki kurma, rekabetçilik | Rutin ve tanıdık müşteri arayan |
 | Müşteri Yöneticisi (çiftçi) | Analitik düşünme, sabır, danışmanlık, düzenli takip | Sadece kapanışa odaklanan, takipte zayıf |
 | Kilit Müşteri Yöneticisi | Stratejik düşünme, müzakere, proje yönetimi, üst düzey iletişim | Tek tek siparişle uğraşan |
-| Saha Satış Müdürü | Koçluk, örnek olma, planlama, adalet | “En iyi satışçı” olup yönetmeyi bilmeyen |
+| Satış Gücü Müdürü | Koçluk, örnek olma, planlama, adalet | “En iyi satışçı” olup yönetmeyi bilmeyen |
 | Bölge Müdürü | Yöneticileri geliştirme, analiz, kaynak dağıtımı | Sadece rapor isteyen |
 | Satış Gücü Direktörü | Strateji, finansal okuryazarlık, değişim yönetimi, birimler arası etki | Sahadan kopuk |
 
@@ -51,7 +51,7 @@ Bilgi en hızlı öğretilen, davranış en zor değişendir. Bu yüzden işe al
 
 **KPI’lar:** ciro ve brüt kâr · aktif müşteri · penetrasyon · cüzdan payı · tahsilat · koçluk puanı.
 
-### Örnek: Saha Satış Müdürü
+### Örnek: Satış Gücü Müdürü
 
 **Amaç:** Ekibin hedeflerine ulaşmasını, temsilcilerin yetkinliklerini sahada geliştirerek sağlamak.
 

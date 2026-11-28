@@ -26,7 +26,7 @@ Knowledge is the fastest to teach and behaviour the hardest to change. So priori
 | New Business Specialist (hunter) | High energy, resilience to rejection, quick rapport, competitiveness | Seeks routine and familiar customers |
 | Account Manager (farmer) | Analytical, patient, consultative, consistent follow-up | Focused only on closing, weak follow-up |
 | Key Account Manager | Strategic thinking, negotiation, project management, senior communication | Busy with individual orders |
-| Field Sales Manager | Coaching, role modelling, planning, fairness | The “best seller” who can’t manage |
+| Sales Force Manager | Coaching, role modelling, planning, fairness | The “best seller” who can’t manage |
 | Regional Manager | Developing managers, analysis, resource allocation | Only asks for reports |
 | Head of Sales Force | Strategy, financial literacy, change management, cross-functional influence | Detached from the field |
 
@@ -49,7 +49,7 @@ A job description clarifies expectations, underpins hiring and appraisal, and pr
 
 **KPIs:** sales and gross profit · active customers · penetration · share of wallet · collections · coaching score.
 
-### Example: Field Sales Manager
+### Example: Sales Force Manager
 
 **Purpose:** Ensure the team reaches its targets by developing reps’ competencies in the field.
 

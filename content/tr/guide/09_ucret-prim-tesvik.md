@@ -78,7 +78,7 @@ Maaşı yalnızca kıdeme değil, yetkinlik seviyesine (başlangıç, gelişen, 
 | Müşteri Yöneticisi (çiftçi) | %35 | %25 | %25 | – | %15 |
 | Yeni Müşteri Uzmanı (avcı) | %20 | %15 | – | %50 | %15 |
 | Kilit Müşteri Yöneticisi | %35 | %35 | %15 | – | %15 |
-| Saha Satış Müdürü | Ekip KPI’ları %70 + koçluk ve ekip gelişimi %30 | | | | |
+| Satış Gücü Müdürü | Ekip KPI’ları %70 + koçluk ve ekip gelişimi %30 | | | | |
 
 ## Takım primi mi, bireysel prim mi?
 

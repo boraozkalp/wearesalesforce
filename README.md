@@ -1,6 +1,6 @@
 # We Are Sales Force
 
-Saha satış yönetimi için açık başvuru kaynağı — **www.wearesalesforce.com**
+Satış gücü yönetimi için açık başvuru kaynağı — **www.wearesalesforce.com**
 
 - `content/` – Rehber modülleri, yazılar, sözlük ve hakkında sayfası (TR/EN, Markdown + YAML)
 - `tools.py`, `assets/tools.js` – Etkileşimli araçlar

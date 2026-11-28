@@ -98,8 +98,8 @@
   tr: {term: Kilit müşteri yönetimi, def: Zincir ve çok şubeli büyük müşterilerin özel bir rol ve yıllık planla yönetilmesi.}
   en: {term: Key account management, def: Managing large chains and multi-site customers through a dedicated role and an annual plan.}
 - module: 7
-  tr: {term: Yönetim genişliği, def: Bir yöneticiye doğrudan bağlı çalışan sayısı; saha satışında koçluk için 6–10 önerilir.}
-  en: {term: Span of control, def: The number of people reporting directly to a manager; 6–10 is recommended in field sales to allow coaching.}
+  tr: {term: Yönetim genişliği, def: Bir yöneticiye doğrudan bağlı çalışan sayısı; satış gücünde koçluk için 6–10 önerilir.}
+  en: {term: Span of control, def: The number of people reporting directly to a manager; 6–10 is recommended in a sales force to allow coaching.}
 - module: 7
   tr: {term: Yedekleme planı, def: Kritik pozisyonlar için hazır veya hazırlanmakta olan aday tanımlanması.}
   en: {term: Succession plan, def: Identifying ready or developing successors for critical positions.}

@@ -1,14 +1,14 @@
 ## What is We Are Sales Force?
 
-We Are Sales Force is an **independent, original and free** reference for field sales teams and their managers. It explains sales force management not as a collection of tips but as an end-to-end system, from customer selection to compliance, supported by tools you can use in the field.
+We Are Sales Force is an **independent, original and free** reference for sales force teams and their managers. It explains sales force management not as a collection of tips but as an end-to-end system, from customer selection to compliance, supported by tools you can use in the field.
 
 ## Who is it for?
 
 - **Sales representatives** and key account managers who visit customers in the field
-- **Field sales managers** and regional managers who lead teams
+- **Sales force managers** and regional managers who lead teams
 - **Sales directors** building or transforming a sales organisation, and HR, training and commercial excellence teams
 
-The content draws especially on experience from field-intensive sectors such as foodservice (hotels, restaurants, cafés, catering) and B2B wholesale, but the principles apply to any field sales business.
+The content draws especially on experience from field-intensive sectors such as foodservice (hotels, restaurants, cafés, catering) and B2B wholesale, but the principles apply to any business that runs a sales force.
 
 ## How to use it
 

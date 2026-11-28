@@ -61,7 +61,7 @@ Her eğitimin sonunda katılımcı **kişisel bir aksiyon planı** yazar; planı
 
 ## Koçluk: yönetici ve koç
 
-Saha yöneticisi iki şapka taşır. İkisini bilinçli olarak ayırmak gerekir.
+Satış gücü yöneticisi iki şapka taşır. İkisini bilinçli olarak ayırmak gerekir.
 
 | Yönetici şapkası | Koç şapkası |
 |---|---|
@@ -126,7 +126,7 @@ Bireysel performans iki etkene bağlıdır: **yetkinlik** (bilgi ve beceri) ve *
 
 ## Profesyonel koçluğun temel yetkinlikleri
 
-Uluslararası koçluk standartları, profesyonel bir koçta şu yetkinlikleri arar (özetle): etik davranmak · açık, meraklı ve esnek bir koçluk zihniyeti · koçluk ilişkisinde net anlaşmalar kurmak · güven ve güvenlik ortamı yaratmak · tam olarak orada ve odaklı olmak · etkin dinlemek · güçlü sorular, sessizlik ve benzetmelerle farkındalık yaratmak · öğrenmeyi eyleme dönüştürmek ve kişinin özerkliğini desteklemek. Saha yöneticisinin hedefi profesyonel koç olmak değil; bu ilkeleri günlük koçluğuna taşımaktır.
+Uluslararası koçluk standartları, profesyonel bir koçta şu yetkinlikleri arar (özetle): etik davranmak · açık, meraklı ve esnek bir koçluk zihniyeti · koçluk ilişkisinde net anlaşmalar kurmak · güven ve güvenlik ortamı yaratmak · tam olarak orada ve odaklı olmak · etkin dinlemek · güçlü sorular, sessizlik ve benzetmelerle farkındalık yaratmak · öğrenmeyi eyleme dönüştürmek ve kişinin özerkliğini desteklemek. Satış gücü yöneticisinin hedefi profesyonel koç olmak değil; bu ilkeleri günlük koçluğuna taşımaktır.
 
 ## Sık yapılan hatalar
 

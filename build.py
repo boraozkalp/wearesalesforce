@@ -27,15 +27,15 @@ T = {
  'tr': dict(guide='Rehber', tools='Araçlar', articles='Yazılar', glossary='Sözlük', about='Hakkında',
             search='Ara', search_ph='Rehberde, araçlarda ve sözlükte ara…', min='dk okuma', module='Modül',
             prev='Önceki modül', next='Sonraki modül', on_page='Bu sayfada', updated='Güncelleme',
-            related='İlgili araçlar', tagline='Saha satış yönetimi için açık başvuru kaynağı',
-            footer='Saha satış ekipleri ve yöneticileri için özgün, uygulanabilir rehberler, araçlar ve şablonlar.',
+            related='İlgili araçlar', tagline='Satış gücü yönetimi için açık başvuru kaynağı',
+            footer='Satış gücü ekipleri ve yöneticileri için özgün, uygulanabilir rehberler, araçlar ve şablonlar.',
             by='Hazırlayan', lang_other='EN', all_modules='Tüm modüller', read='Oku', open='Aç',
             no_result='Sonuç bulunamadı', print='Yazdır', newest='En yeni yazılar', back='Tüm yazılar'),
  'en': dict(guide='Guide', tools='Tools', articles='Articles', glossary='Glossary', about='About',
             search='Search', search_ph='Search the guide, tools and glossary…', min='min read', module='Module',
             prev='Previous module', next='Next module', on_page='On this page', updated='Updated',
-            related='Related tools', tagline='An open reference for field sales management',
-            footer='Original, practical guides, tools and templates for field sales teams and their managers.',
+            related='Related tools', tagline='An open reference for sales force management',
+            footer='Original, practical guides, tools and templates for sales force teams and their managers.',
             by='Created by', lang_other='TR', all_modules='All modules', read='Read', open='Open',
             no_result='No results', print='Print', newest='Latest articles', back='All articles'),
 }
@@ -305,26 +305,26 @@ def ACARD(lang, a, r):
 def HOME(lang, r):
     t = T[lang]; G = GUIDES[lang]
     if lang == 'tr':
-        h1 = 'Saha satışını <em>kişisel gayretten</em> sistemli performansa taşıyın.'
-        sub = 'Satış temsilcileri, saha yöneticileri ve satış direktörleri için açık, özgün ve uygulanabilir bir başvuru kaynağı: 11 modüllük yönetim rehberi, sahada kullanılan araçlar, sözlük ve düzenli yazılar.'
+        h1 = 'Satış gücünüzü <em>kişisel gayretten</em> sistemli performansa taşıyın.'
+        sub = 'Satış temsilcileri, satış gücü yöneticileri ve satış direktörleri için açık, özgün ve uygulanabilir bir başvuru kaynağı: 11 modüllük yönetim rehberi, sahada kullanılan araçlar, sözlük ve düzenli yazılar.'
         cta1, cta2 = 'Rehbere başla', 'Araçları keşfet'
         stats = [('11', 'yönetim modülü'), (str(len(TOOLS[lang])), 'interaktif araç'), ('2', 'dil: TR + EN'), ('Açık', 'ücretsiz erişim')]
         sys_t = 'Satış gücü bir sistemdir'
         sys_p = 'Doğru müşteriyi seçmeden hedef konmaz; hedef olmadan performans izlenmez; izlenmeyen performans koçlukla gelişmez. Rehber bu zinciri baştan sona kurar.'
         who = [('Satış temsilcisi', 'Ziyaret hazırlığı, soru sorma, itiraz ve kapanış teknikleri; günlük kontrol listeleri.', 'visit'),
-               ('Saha satış yöneticisi', 'Portföy kurma, hedef kırılımı, performans takibi ve koçluk günü planı.', 'chart'),
+               ('Satış gücü yöneticisi', 'Portföy kurma, hedef kırılımı, performans takibi ve koçluk günü planı.', 'chart'),
                ('Satış direktörü', 'Organizasyon tasarımı, yetkinlik modeli, prim sistemi ve uyum çerçevesi.', 'org')]
         who_t = 'Kimin için?'; tools_t = 'Öne çıkan araçlar'; arts_t = t['newest']
         ig = 'Kısa ipuçları, infografikler ve sahadan notlar için Instagram’da takip edin.'
     else:
-        h1 = 'Move field sales from <em>personal effort</em> to systematic performance.'
-        sub = 'An open, original and practical reference for sales reps, field sales managers and sales directors: an 11-module management guide, field-ready tools, a glossary and regular articles.'
+        h1 = 'Move your sales force from <em>personal effort</em> to systematic performance.'
+        sub = 'An open, original and practical reference for sales reps, sales force managers and sales directors: an 11-module management guide, field-ready tools, a glossary and regular articles.'
         cta1, cta2 = 'Start the guide', 'Explore the tools'
         stats = [('11', 'management modules'), (str(len(TOOLS[lang])), 'interactive tools'), ('2', 'languages: TR + EN'), ('Free', 'and open')]
         sys_t = 'A sales force is a system'
         sys_p = 'Without choosing the right customers you cannot set targets; without targets you cannot track performance; and untracked performance does not improve through coaching. The guide builds this chain end to end.'
         who = [('Sales representative', 'Visit preparation, questioning, objection handling and closing; daily checklists.', 'visit'),
-               ('Field sales manager', 'Building portfolios, breaking down targets, tracking performance and planning coaching days.', 'chart'),
+               ('Sales force manager', 'Building portfolios, breaking down targets, tracking performance and planning coaching days.', 'chart'),
                ('Sales director', 'Organisation design, competency model, incentive scheme and compliance framework.', 'org')]
         who_t = 'Who is it for?'; tools_t = 'Featured tools'; arts_t = t['newest']
         ig = 'Follow us on Instagram for quick tips, infographics and field notes.'

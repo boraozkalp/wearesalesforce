@@ -1,14 +1,14 @@
 ## We Are Sales Force nedir?
 
-We Are Sales Force, saha satış ekipleri ve yöneticileri için hazırlanmış **bağımsız, özgün ve ücretsiz** bir başvuru kaynağıdır. Amacı; satış gücü yönetimini tek tek tavsiyeler yerine, müşteri seçiminden uyuma kadar uçtan uca bir sistem olarak anlatmak ve bu sistemi sahada kullanılabilir araçlarla desteklemektir.
+We Are Sales Force, satış gücü ekipleri ve yöneticileri için hazırlanmış **bağımsız, özgün ve ücretsiz** bir başvuru kaynağıdır. Amacı; satış gücü yönetimini tek tek tavsiyeler yerine, müşteri seçiminden uyuma kadar uçtan uca bir sistem olarak anlatmak ve bu sistemi sahada kullanılabilir araçlarla desteklemektir.
 
 ## Kimler için?
 
 - Sahada müşteri ziyaret eden **satış temsilcileri** ve kilit müşteri yöneticileri
-- Ekip yöneten **saha satış müdürleri** ve bölge müdürleri
+- Ekip yöneten **satış gücü müdürleri** ve bölge müdürleri
 - Satış organizasyonunu kuran veya dönüştüren **satış direktörleri** ve İK, eğitim, ticari mükemmellik ekipleri
 
-İçerikler özellikle ev dışı tüketim (otel, restoran, kafe, catering) ve B2B toptan satış gibi saha yoğun sektörlerin deneyimiyle hazırlanmıştır; ancak ilkeler saha satışı yapan her sektöre uyarlanabilir.
+İçerikler özellikle ev dışı tüketim (otel, restoran, kafe, catering) ve B2B toptan satış gibi saha yoğun sektörlerin deneyimiyle hazırlanmıştır; ancak ilkeler satış gücüyle çalışan her sektöre uyarlanabilir.
 
 ## Nasıl kullanılır?
 

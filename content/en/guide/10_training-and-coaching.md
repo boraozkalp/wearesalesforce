@@ -124,7 +124,7 @@ Individual performance depends on **competence** (knowledge and skills) and **mo
 
 ## Core competencies of professional coaching
 
-International coaching standards look for these competencies in a professional coach (summarised): ethical practice · an open, curious and flexible coaching mindset · clear agreements in the coaching relationship · creating trust and safety · being fully present · active listening · evoking awareness through powerful questions, silence and metaphor · turning learning into action and supporting the person’s autonomy. A field manager doesn’t need to become a professional coach, but should bring these principles into everyday coaching.
+International coaching standards look for these competencies in a professional coach (summarised): ethical practice · an open, curious and flexible coaching mindset · clear agreements in the coaching relationship · creating trust and safety · being fully present · active listening · evoking awareness through powerful questions, silence and metaphor · turning learning into action and supporting the person’s autonomy. A sales force manager doesn’t need to become a professional coach, but should bring these principles into everyday coaching.
 
 ## Common mistakes
 

@@ -78,7 +78,7 @@ Linking base pay to competency level (beginner, developing, competent, expert) r
 | Account Manager (farmer) | 35% | 25% | 25% | – | 15% |
 | New Business (hunter) | 20% | 15% | – | 50% | 15% |
 | Key Account Manager | 35% | 35% | 15% | – | 15% |
-| Field Sales Manager | Team KPIs 70% + coaching and team development 30% | | | | |
+| Sales Force Manager | Team KPIs 70% + coaching and team development 30% | | | | |
 
 ## Team or individual bonus?
 

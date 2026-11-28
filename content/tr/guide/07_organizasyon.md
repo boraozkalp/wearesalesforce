@@ -17,7 +17,7 @@ Aynı insanlar, farklı bir yapı içinde çok farklı sonuçlar üretebilir. Ro
 
 <div class="grid2">
 <div class="box"><h4>Müşteri merkezli</h4><p>Yapı, müşteri segmentlerine ve kanallara göre kurulur; iç departman sınırlarına göre değil.</p></div>
-<div class="box"><h4>Yönetilebilir genişlik</h4><p>Saha yöneticisi başına 6–10 temsilci. Daha fazlası koçluğu imkânsız kılar.</p></div>
+<div class="box"><h4>Yönetilebilir genişlik</h4><p>Satış gücü yöneticisi başına 6–10 temsilci. Daha fazlası koçluğu imkânsız kılar.</p></div>
 <div class="box"><h4>Net karar hakları</h4><p>Fiyat, iskonto, ödeme vadesi ve portföy değişikliğinde kimin neye karar verdiği yazılıdır.</p></div>
 <div class="box"><h4>Sahaya yakın yönetim</h4><p>Yöneticiler zamanlarının en az %50’sini sahada, ekipleriyle geçirir.</p></div>
 </div>
@@ -30,7 +30,7 @@ Aynı insanlar, farklı bir yapı içinde çok farklı sonuçlar üretebilir. Ro
 <rect x="190" y="86" width="120" height="40" rx="9" fill="#173A6B"/><text x="250" y="111" fill="#fff">Bölge Müdürü</text>
 <rect x="330" y="86" width="120" height="40" rx="9" fill="#173A6B"/><text x="390" y="111" fill="#fff">Bölge Müdürü</text>
 <rect x="470" y="86" width="150" height="40" rx="9" fill="#E5484D"/><text x="545" y="111" fill="#fff">Kilit Müşteri Yöneticisi</text>
-<rect x="190" y="160" width="260" height="36" rx="9" fill="#2F7DC0"/><text x="320" y="183" fill="#fff">Saha Satış Müdürü / Takım Lideri</text>
+<rect x="190" y="160" width="260" height="36" rx="9" fill="#2F7DC0"/><text x="320" y="183" fill="#fff">Satış Gücü Müdürü / Takım Lideri</text>
 <rect x="150" y="214" width="160" height="32" rx="9" fill="#4697D8"/><text x="230" y="235" fill="#fff">Müşteri Yöneticisi (çiftçi)</text>
 <rect x="330" y="214" width="160" height="32" rx="9" fill="#4697D8"/><text x="410" y="235" fill="#fff">Yeni Müşteri Uzmanı (avcı)</text>
 </g><g stroke="#C9C3B6" stroke-width="2" fill="none"><path d="M320 50v18H95v18M320 68h225v18M250 68v18M390 68v18M250 126v16h140v-16M320 142v18M320 196v9H230v9M320 205h90v9"/></g></svg><figcaption>Örnek yapı: yönetim hattı, destek rolleri ve kilit müşteri hattı ayrıdır.</figcaption></figure>
@@ -39,7 +39,7 @@ Aynı insanlar, farklı bir yapı içinde çok farklı sonuçlar üretebilir. Ro
 |---|---|---|
 | Satış Gücü Direktörü | Strateji, bütçe, organizasyon, diğer birimlerle uyum | Ticari hedefler, satış maliyeti oranı, ekip yetkinliği |
 | Bölge Müdürü | Bölge hedefi, yöneticilerin koçluğu, kaynak dağıtımı | Bölge sonuçları, yönetici gelişimi |
-| Saha Satış Müdürü / Takım Lideri | Ekibin günlük yönetimi, sahada koçluk, portföy dengesi | Ekip sonuçları, koçluk sıklığı ve kalitesi |
+| Satış Gücü Müdürü / Takım Lideri | Ekibin günlük yönetimi, sahada koçluk, portföy dengesi | Ekip sonuçları, koçluk sıklığı ve kalitesi |
 | Müşteri Yöneticisi (çiftçi) | Portföy müşterilerinin büyütülmesi | Cüzdan payı, penetrasyon, kârlılık |
 | Yeni Müşteri Uzmanı (avcı) | Yeni müşteri kazanımı | İkinci sipariş veren ve 90 gün aktif kalan müşteri |
 | Kilit Müşteri Yöneticisi | Zincir ve çok şubeli büyük müşteriler | Yıllık anlaşma, kârlılık, hizmet seviyesi |
@@ -57,7 +57,7 @@ Satış gücü tek başına müşteri sözünü yerine getiremez. Her arayüz i�
 
 ## Karar hakları
 
-| Karar | Temsilci | Saha müdürü | Bölge müdürü | Direktör |
+| Karar | Temsilci | Satış gücü müdürü | Bölge müdürü | Direktör |
 |---|---|---|---|---|
 | Standart fiyat dışı iskonto | Bant içinde | Bant üstü | Özel durum | Politika |
 | Ödeme vadesi değişikliği | Öneri | Onay (sınır içi) | Onay | Politika |
@@ -81,7 +81,7 @@ Her yönetici pozisyonu için en az bir “hazır” veya “1–2 yıl içinde 
 ## Yönetici kontrol soruları
 
 <ul class="check">
-<li>Saha yöneticilerimizin yönetim genişliği koçluk yapmalarına izin veriyor mu?</li>
+<li>Satış gücü yöneticilerimizin yönetim genişliği koçluk yapmalarına izin veriyor mu?</li>
 <li>İskonto ve vade kararlarında kimin ne yetkisi olduğu yazılı mı?</li>
 <li>Operasyon ve finansla düzenli koordinasyon toplantısı var mı?</li>
 <li>Her yönetici pozisyonu için bir yedek aday belirlendi mi?</li>
