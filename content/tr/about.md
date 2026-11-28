@@ -23,6 +23,7 @@ We Are Sales Force, satış gücü ekipleri ve yöneticileri için hazırlanmı�
 - Rakamlar ve oranlar örnek amaçlıdır; kendi verinizle uyarlamanız gerekir.
 - Uyum ve hukuk konuları genel bilgi niteliğindedir, hukuki danışmanlık değildir.
 - We Are Sales Force, herhangi bir yazılım markası veya şirketle bağlantılı değildir.
+- Ziyaret sayılarını ölçmek için çerez kullanmayan, kişisel veri toplamayan Cloudflare Web Analytics kullanılır.
 
 ## Hazırlayan
 

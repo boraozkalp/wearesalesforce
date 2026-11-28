@@ -167,6 +167,7 @@ def page(lang, cur_url, title, body, desc='', alt_url=None, active='', extra_hea
 <script src="{r('assets/search-index.js')}"></script>
 <script src="{r('assets/app.js')}"></script>
 {scripts}
+<!-- Cloudflare Web Analytics (çerezsiz) --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{{"token": "adb6216eef2b47db9387d66b02a72d1a"}}'></script>
 </body>
 </html>'''
 

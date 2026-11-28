@@ -23,6 +23,7 @@ The content draws especially on experience from field-intensive sectors such as 
 - Figures and ratios are examples; adapt them with your own data.
 - Compliance and legal topics are general information, not legal advice.
 - We Are Sales Force is not affiliated with any software brand or company.
+- Visits are measured with Cloudflare Web Analytics, which uses no cookies and collects no personal data.
 
 ## Created by
 
